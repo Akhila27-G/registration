@@ -1,0 +1,73 @@
+function check(){
+  let s1;
+  let s2;
+  let s3;
+  let s4;
+  let s5;
+  let s6;
+  let s7;
+  let s8;
+  let s9;
+  let s10;
+  let s11;
+  let s12;
+  let s13;
+  let s14;
+  let s15;
+  let s16;
+  let s17;
+  //storing values
+  s1=document.getElementById("a1").Value;
+  s2=document.getElementById("a1").Value;
+  s3=document.getElementById("a1").Value;
+  s4=document.getElementById("a1").Value;
+  s5=document.getElementById("a1").Value;
+  s6=document.getElementById("a1").Value;
+  s7=document.getElementById("a1").Value;
+  s8=document.getElementById("a1").Value;
+  s9=document.getElementById("a1").Value;
+  s10=document.getElementById("a1").Value;
+  s11=document.getElementById("a1").Value;
+  s12=document.getElementById("a1").Value;
+  s13=document.getElementById("a1").Value;
+  s14=document.getElementById("a1").Value;
+  s15=document.getElementById("a1").Value;
+  s16=document.getElementById("a1").Value;
+  s17=document.getElementById("a1").Value;
+  console.log(s1);
+  console.log(s2);
+  console.log(s3);
+  console.log(s4);
+  console.log(s5);
+  console.log(s6);
+  console.log(s7);
+  console.log(s8);
+  console.log(s9);
+  console.log(s10);
+  console.log(s12);
+  console.log(s13);
+  console.log(s14);
+  console.log(s15);
+  console.log(s16);
+  console.log(s17);
+//show values
+    document.getElementById("fname").innerHTML=s1;
+    document.getElementById("fmname").innerHTML=s2;
+    document.getElementById("flname").innerHTML=s3;
+    document.getElementById("fmail").innerHTML=s4;
+    document.getElementById("fpd").innerHTML=s5;
+    document.getElementById("fdob").innerHTML=s6;
+    document.getElementById("fgen").innerHTML=s7;
+    document.getElementById("fadd").innerHTML=s8;
+    document.getElementById("fpc").innerHTML=s9;
+    document.getElementById("fmbno").innerHTML=s10;
+    document.getElementById("fadno").innerHTML=s11;
+    document.getElementById("fpcno").innerHTML=s12;
+    document.getElementById("fcy").innerHTML=s13;
+    document.getElementById("fsts").innerHTML=s14;
+    document.getElementById("fssc mr").innerHTML=s15;
+    document.getElementById("fname").innerHTML=s16;
+    document.getElementById("fmname").innerHTML=s17;
+   
+  
+} 
