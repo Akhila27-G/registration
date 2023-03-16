@@ -1,0 +1,53 @@
+#back{
+    background-image: url(../Docy_HTML_Template/img/technology2.jfif);
+    background-repeat:repeat;
+    background-size: 1500px;
+
+}
+#html{
+    color:white;
+}
+#easy{
+    color: black;
+}
+#HTML{
+    color: gray;
+    text-align: justify;
+}
+#intro{
+    color:blue;
+}
+#element{
+    color: blue;
+}
+#document{
+    color: blue;
+}
+#text{
+    color: blue;
+}
+#lists{
+    color:blue;
+}
+#images{
+    color:blue;
+}
+#popular{
+    color: black;
+}
+#back1{
+    background-image: url(../Docy_HTML_Template/img/);
+    background-repeat:repeat;
+    background-size: 2000px;
+    
+}
+#head{
+    color: gold;
+}
+#back2{
+    background-image: url(../Docy_HTML_Template/img/technology2.jfif);
+    background-repeat:repeat;
+    background-size: 2000px;
+}
+
+
